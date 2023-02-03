@@ -1,0 +1,67 @@
+
+/* Typography */
+h1, h2, h3, h4, h5, h6 {
+	font-family:"Open sans", Helvetica, Arial; font-weight: 300;
+
+	margin-top: 1rem!important;
+	margin-bottom: 1rem!important;
+}
+h2 {
+	margin-top: 2rem!important;
+}
+blockquote { font-style: italic; font-family: Georgia; color:#999; margin:30px 0 30px; }
+.thin { font-weight:300; }
+/*
+label { color: #777; }
+.page-title { margin-top:20px; font-weight:300; }
+
+.text-muted { color:#888; }
+.breadcrumb { background:none; padding:0; margin:30px 0 0px 0; }
+*/
+/* navbar */
+.navbar {
+	background-color: black;
+}
+.sidebar-home .sidebar-partners {
+  display:none;
+}
+.playlist { -webkit-column-count:2;-moz-column-count:2;column-count:2; }
+.playlist li:hover { text-decoration: underline; cursor: pointer; }
+.playlist li { font-weight: normal; }
+.playlist li.playing { font-weight: bold; }
+/* Main content block */
+.maincontent { }
+
+.carousel {
+  background: #000;
+}
+.carousel-caption {
+  font-size: 12px; color: #bbb; margin:0
+}
+.credits-dark {
+  background: #232323;
+  font-size: 10px; color: #999; text-align: center;
+}
+.credits-light {
+  font-size: 10px; color: #bbb; text-align: center;
+}
+
+/* Footer */
+.footer1 { background: #232323; padding: 30px 0 0 0; font-size: 12px; color: #999; }
+	.footer1 a { color: #ccc; }
+		.footer1 a:hover {color: #fff; }
+	.footer1 .widget { margin-bottom:30px; }
+	.footer1 .widget-title { font-size: 17px; font-weight: bold; color: #ccc; margin: 0 0 20px; }
+	.footer1 .entry-meta { border-top: 1px solid #ccc; border-bottom: 1px solid #ccc; margin: 0 0 35px 0; padding: 2px 0; color: #888888; font-size: 12px; font-size: 0.75rem; }
+		.footer1 .entry-meta a { color: #333333; }
+		.footer1 .entry-meta .meta-in { border-top: 1px solid #ccc; border-bottom: 1px solid #ccc; padding: 10px 0; }
+	.follow-me-icons { font-size:30px; }
+		.follow-me-icons i { float:left; margin:0 10px 0 0; }
+
+.footer2 { background: #191919; padding: 15px 0; color: #777; font-size: 12px; }
+	.footer2 a { color: #aaa; }
+		.footer2 a:hover { color: #fff; }
+		.footer2 p { margin: 0; }
+
+	.widget-simplenav { margin-left:-5px; }
+	.widget-simplenav a{ margin:0 5px; }

@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /assets/pdf/Dossier-de-presse-Bagad-2020.pdf
+Allow: /
+Sitemap: https://bagaddenantes.bzh/sitemap.xml
