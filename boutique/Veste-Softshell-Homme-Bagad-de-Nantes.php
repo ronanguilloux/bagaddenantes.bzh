@@ -13,7 +13,7 @@ require_once('../parts/navbar.html.php');
     <div class="col-md-8">
       <h1 class="mt-0">Boutique</h1>
       <hr/>
-      <h2>Veste Softshell Homme Bagad de Nantes</h2>
+      <h2>Veste Softshell Homme Bagad de Nantes <span id="price" class="badge rounded-pill bg-dark">50,00 €</span></h2>
       <?php require_once('parts/order.html.php'); ?>
       <img class="rounded float-start img-fluid img-thumbnail rounded mx-auto d-block" 
           src="/boutique/assets/packshots/Veste-Softshell-Homme-Bagad-de-Nantes.jpeg" />

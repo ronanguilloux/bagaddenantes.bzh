@@ -36,7 +36,7 @@ require_once('../parts/navbar.html.php');
         car il ne vous ralentira pas.</p>
       <h3>Guide des tailles</h3>
       <img class="rounded float-start img-fluid img-thumbnail mx-auto mb-3 d-block" 
-        src='/boutique/assets/tailles/Veste-Softshell-Femme-de-Nantes-tailles.png' />
+        src='/boutique/assets/tailles/Veste-Softshell-Femme-Bagad-de-Nantes-tailles.png' />
       <p>Les dimensions indiquées dans ce tableau font référence à la taille du vêtement et non aux mensurations de la personne qui les porte.</p>
       <p>Longueur (A) : du point le plus haut à l’épaule au bas de l’ourlet arrière.</p>
       <p>Largeur (B) : d’un bord à l’autre, juste au-dessous des manches (lorsque le vêtement est à plat).</p>
