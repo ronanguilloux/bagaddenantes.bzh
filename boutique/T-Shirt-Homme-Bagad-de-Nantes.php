@@ -13,30 +13,41 @@ require_once('../parts/navbar.html.php');
     <div class="col-md-8">
       <h1 class="mt-0">Boutique</h1>
       <hr/>
-      <h2>T-Shirt Homme Bagad de Nantes <span id="price" class="badge rounded-pill bg-light text-dark">64,00 €</span></h2>
+      <h2>T-Shirt Homme Bagad de Nantes <span id="price" class="badge rounded-pill bg-light text-dark">36,00 €</span></h2>
       <p><i>Prix unitaire maximum - varie en fonction du nombre d'unités commandées</i></p>
       <?php require_once('parts/order.html.php'); ?>
       <img class="rounded float-start img-fluid img-thumbnail rounded mx-auto d-block" 
         src="/boutique/assets/packshots/T-Shirt-Homme-Bagad-de-Nantes.jpeg" />
       <p>Le T-Shirt Homme officiel du Bagad de Nantes.</p>
       <ul>
-        <li>100 % coton peigné et filé, 160 g/m²</li>
+        <li>100 % coton écologique et certifié équitable, 160 g/m²</li>
         <li>Manches courtes</li>
-        <li>Col côtelé étroit avec élasthanne</li>
         <li>Bandes à l'encolure et aux épaules</li>
         <li>Coutures latérales</li>
-        <li>Surpiqûre aux manches et à l'ourlet</li>
-        <li>Coupe ajustée</li>
+        <li>Coupe moderne</li>
         <li>Modèle également <a href="/boutique/T-Shirt-Femme-Bagad-de-Nantes">disponible pour femme</a></li>
       </ul>
       <p><b>Couleur</b> : Noir</p>
-      <p><b>Marquage</b> : Transfert de couleurs (devant)</p>
+      <p><b>Marquage</b> : Broderie</p>
       <p><b>Manches</b> : Manches courtes</p>
       <p><b>Col</b> : Col rond</p>
-      <p><b>Tailles</b> : du S au 3XL - voir guide ci-dessous</p>
-      <h3>Doux et confortable</h3>
-      <p>Pratique et confortable, le t-shirt homme en coton Luxury de Tee Jays® 
-        est brodé aux couleurs du Bagad de Nantes.</p>
+      <p><b>Tailles</b> : du XS au 4XL - voir guide ci-dessous - Attention, le modèle taille petit.</p>
+      <h3>Doux et écolo, un choix éthique et durable</h3>
+      <p>Fabriqué entièrement en coton biologique, le T-shirt femme col en V GOTS de CottoVer®, brodé aux couleurs du Bagad de Nantes,
+        est bien plus qu'un simple T-shirt.
+        Il bénéficie de nombreuses certifications internationales pour son mode de fabrication éthique et responsable :</p>
+      <ul>
+        <li>Certification <a href="https://global-standard.org/" target="_blank">GOTS</a></li>
+        <li>Certification <a href="https://www.oeko-tex.com/" target="_blank">OEKO-TEX</a></li>
+        <li>Certification <a href="https://www.nordic-ecolabel.org/" target="_blank">Nordic Swan Ecolabel</a></li>
+        <li>Certification <a href="https://info.fairtrade.net/" target="_blank">FairTrade</a></li>
+      </ul>
+      <h3>Conseils d'entretien</h3>
+        <ul>
+          <li>Lavage en machine à 60° C</li>
+          <li>Température de repassage max : 200° C</li>
+          <li>Ne pas sécher en machine</li>
+        </ul>
       <h3>Guide des tailles</h3>
       <img class="rounded float-none img-fluid img-thumbnail mx-auto mb-3 d-block" 
         src='/boutique/assets/tailles/T-Shirt-Homme-Bagad-de-Nantes-tailles.png' />
@@ -53,12 +64,13 @@ require_once('../parts/navbar.html.php');
             </tr>
           </thead>
         <tbody>
-          <tr><th scope="row">S</th><td>173</td><td>94</td></tr>
-          <tr><th scope="row">M</th><td>178</td><td>100</td></tr>
-          <tr><th scope="row">L</th><td>183</td><td>106</td></tr>
-          <tr><th scope="row">XL</th><td>188</td><td>112</td></tr>
-          <tr><th scope="row">2XL</th><td>193</td><td>118</td></tr>
-          <tr><th scope="row">3XL</th><td>194</td><td>124</td></tr>
+          <tr><th scope="row">S</th><td>68</td><td>50</td></tr>
+          <tr><th scope="row">M</th><td>71</td><td>52</td></tr>
+          <tr><th scope="row">L</th><td>74</td><td>56</td></tr>
+          <tr><th scope="row">XL</th><td>77</td><td>60</td></tr>
+          <tr><th scope="row">2XL</th><td>81</td><td>66</td></tr>
+          <tr><th scope="row">3XL</th><td>84</td><td>72</td></tr>
+          <tr><th scope="row">4XL</th><td>88</td><td>78</td></tr>
         </tbody>
       </table>
     </div>
