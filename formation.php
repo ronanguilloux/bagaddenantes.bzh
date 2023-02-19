@@ -39,6 +39,11 @@
         </p>
 
 
+				<h2>Questions, informations</h2>
+				<p>Que vous soyez débutant, faux-débutant ou confirmé, 
+					contactez-nous pour toute demande d'information
+					à l'adresse <a href="mailto:formation@bagaddenantes.bzh">formation@bagaddenantes.bzh</a>.
+
 				<h2>Lieux et horaires des cours collectifs</h2>
 				<ul>
 				  <li>Lundi soir : cornemuse, débutants et perfectionnement</li>
@@ -67,7 +72,7 @@
         <ul>
           <li><a href="/inscription">Les prochaines inscriptions</a> seront ouvertes en ligne, de juin à octobre <?php echo '2023'//date('Y') ?>.</li>
           <li>Tout savoir sur l'achat ou la location d'<a href="/insruments">instruments pour les élèves en formation</a></li>
-          <li><a href="mailto:bagaddenantes@gmail.com">Contactez-nous</a> pour toute question</li>
+          <li><a href="mailto:formation@bagaddenantes.bzh">Contactez-nous</a> pour toute question</li>
         </ul>
 				<h2 class="my-3">Le Bagad de Nantes, éligible au Pass Culture Jeunes!</h2>
 				<p>

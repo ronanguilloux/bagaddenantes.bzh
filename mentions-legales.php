@@ -17,7 +17,7 @@
 					<li>Edition et réalisation du site : Bagad de Nantes (association Loi 1901)</li>
 					<li>Domicilié :  1 rue Jules Bréchoir, 44000 Nantes</a></li>
 					<li>Directeur de la publication : Grégoire Pilon, Président</li>
-					<li>E-mail : bagaddenantes@gmail.com</li>
+					<li>Courriel : <a href="mailto:contact@bagaddenantes.bzh">contact@bagaddenantes.bzh</a></li>
 				</ul>
 
 				<h2>Hébergement</h2>

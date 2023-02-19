@@ -78,7 +78,7 @@ function analytics_events()
 {
   var events = [
     {
-      href: 'mailto:bagaddenantes@gmail.com',
+      href: 'mailto:contact@bagaddenantes.bzh',
       category: 'engagement',
       action: 'click',
       label: 'Email'

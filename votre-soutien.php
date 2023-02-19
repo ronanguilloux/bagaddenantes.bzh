@@ -46,7 +46,7 @@ require_once('parts/navbar.html.php');
       </ul>
       </p>
       <p>Pour obtenir votre reçu fiscal, merci d'indiquer la date et le montant de votre don à notre Trésorier :
-        <a href="mailto:tresorier.bagaddenantes@gmail.com">tresorier.bagaddenantes@gmail.com></a></p>
+        <a href="mailto:tresorier@bagaddenantes.bzh">tresorier@bagaddenantes.bzh</a></p>
       <h2>Votre soutien peut prendre de nombreuses formes</h2>
       <p>Votre don peut prendre l'une des formes suivantes :
         <ul>
@@ -62,7 +62,7 @@ require_once('parts/navbar.html.php');
         </ul>
       </p>
       <h2>Mécénat d'entreprise et déductions fiscales</h2>
-      <p>Merci de nous <a href="mailto:bagaddenantes@gmail.com">contacter</a></p>
+      <p>Merci de nous <a href="mailto:tresorier@bagaddenantes.bzh">contacter</a></p>
     </div>
 
     <?php require_once('parts/sidebar.html.php'); ?>

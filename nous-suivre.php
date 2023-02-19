@@ -21,7 +21,7 @@
 					<li><i class="fs-4 fa fa-youtube"></i> <a href="https://www.youtube.com/@bagaddenantes" target="_blank">chaîne YT du Bagad de Nantes</a></li>
 					<li><i class="fs-4 fa fa-instagram"></i> <a href="https://www.instagram.com/bagadnantes" target="_blank">@bagadnantes</a></li>
 					<li><i class="fs-4 fa fa-twitter"></i> <a href="https://twitter.com/bagaddenantes" target="_blank">@bagaddenantes</a></li>
-					<li><i class="fs-4 far fa-envelope"></i> <a href="mailto:bagaddenantes@gmail.com">bagaddenantes@gmail.com</a></li>
+					<li><i class="fs-4 far fa-envelope"></i> <a href="mailto:contact@bagaddenantes.bzh">contact@bagaddenantes.bzh</a></li>
 				</ul>
 			</div>
 

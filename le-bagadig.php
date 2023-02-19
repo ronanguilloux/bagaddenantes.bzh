@@ -37,6 +37,11 @@
 					Le Bagadig de Nantes participe au Concours National des Bagadoù, en 5ème catégorie.
 				</p>
 
+				<h2>Questions, informations</h2>
+				<p>Que vous soyez débutant, faux-débutant ou confirmé, 
+					contactez-nous pour toute demande d'information
+					à l'adresse <a href="mailto:formation@bagaddenantes.bzh">formation@bagaddenantes.bzh</a>.
+
 				<h2>Cours du soir et Répétitions</h2>
 				<p>
 					Les élèves et les membres du Bagadig participent à la vie de l'association, dont ils sont membres.

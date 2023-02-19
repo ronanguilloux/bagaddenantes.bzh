@@ -10,7 +10,7 @@
           <address class="widget-body">
             <p class="lh-lg">
               <!--<i class="fas fa-phone"></i> <a href="tel:06...">06 ...</a>-->
-              <i class="fas fa-at"></i> <a href="mailto:bagaddenantes@gmail.com">bagaddenantes@gmail.com</a>
+              <i class="fas fa-at"></i> <a href="mailto:contact@bagaddenantes.bzh">contact@bagaddenantes.bzh</a>
               <br><i class="fas fa-map-marker-alt"></i> <a href="https://www.google.com/maps/place/1+Rue+Jules+Brechoir,+44000+Nantes/" target="_blank">1 rue Jules Bréchoir à Nantes</a>
   						<br><i class="fas fa-subway"></i> Tram ligne 1 arrêt Boulevard de Doulon
             </p>
