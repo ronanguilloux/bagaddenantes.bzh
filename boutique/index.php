@@ -58,6 +58,10 @@ require_once('../parts/navbar.html.php');
       <a href="/boutique/Grand-sac-fourre-tout-coton-Bagad-de-Nantes">
         <img width="200px" class="rounded float me-2 mb-2 img-fluid img-thumbnail"  
           src="/boutique/assets/packshots/Grand-sac-fourre-tout-coton-Bagad-de-Nantes.jpeg" /></a>
+
+      <a href="/boutique/Sac-de-voyage-week-end-Bagad-de-Nantes">
+        <img width="200px" class="rounded float me-2 mb-2 img-fluid img-thumbnail"  
+          src="/boutique/assets/packshots/Sac-de-voyage-week-end-Bagad-de-Nantes.jpeg" /></a>
     </div>
     <?php require_once('../parts/sidebar.html.php'); ?>
 
