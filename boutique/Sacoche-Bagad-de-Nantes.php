@@ -13,12 +13,12 @@ require_once('../parts/navbar.html.php');
     <div class="col-md-8">
       <h1 class="mt-0">Boutique</h1>
       <hr/>
-      <h2>Sacoche Bagad de Nantes <span id="price" class="badge rounded-pill bg-dark">50,00 €</span></h2>
+      <h2>Sacoche Bagad de Nantes <span id="price" class="badge rounded-pill bg-light text-dark">39,00 €</span></h2>
       <?php require_once('parts/order.html.php'); ?>
       <img class="rounded float-start img-fluid img-thumbnail rounded mx-auto d-block" 
           src="/boutique/assets/packshots/Sacoche-Bagad-de-Nantes.jpeg" />
       <p>La Sacoche officielle du Bagad de Nantes</p>
-      <p>Cette sacoche est brodée au logo du Bagad de Nantes.</p>
+      <p>Cette sacoche Omaha de Bullet™ est brodée au logo du Bagad de Nantes.</p>
       <ul>
         <li>Polyester 600D résistant à un usage quotidien</li>
         <li>Dimensions : 25 cm H x 34 cm l x 8 cm L</li>

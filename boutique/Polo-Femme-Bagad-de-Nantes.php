@@ -13,7 +13,8 @@ require_once('../parts/navbar.html.php');
     <div class="col-md-8">
       <h1 class="mt-0">Boutique</h1>
       <hr/>
-      <h2>Polo Femme Bagad de Nantes <span id="price" class="badge rounded-pill bg-dark">50,00 €</span></h2>
+      <h2>Polo Femme Bagad de Nantes <span id="price" class="badge rounded-pill bg-light text-dark">49,00 €</span></h2>
+      <p><i>Prix unitaire maximum - varie en fonction du nombre d'unités commandées</i></p>
       <?php require_once('parts/order.html.php'); ?>
       <img class="rounded float-start img-fluid img-thumbnail rounded mx-auto d-block" 
           src="/boutique/assets/packshots/Polo-Femme-Bagad-de-Nantes.jpeg" />
