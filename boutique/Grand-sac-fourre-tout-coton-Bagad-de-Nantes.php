@@ -15,12 +15,12 @@ require_once('../parts/navbar.html.php');
       <hr class="d-print-none"/>
       <img class="rounded float-end img-fluid img-thumbnail rounded mx-auto d-block w-25 d-none d-print-block" 
           src="/boutique/assets/qr-code-boutique.png" />
-      <h2>Le Sac Fourre-Tout en toile Bagad de Nantes <span id="price" class="badge rounded-pill bg-light text-dark">29,00 €</span></h2>
+      <h2>Le Grand Sac en toile Bagad de Nantes <span id="price" class="badge rounded-pill bg-light text-dark">29,00 €</span></h2>
       <p><i>Prix unitaire maximum - varie en fonction du nombre d'unités commandées</i></p>
       <?php require_once('parts/order.html.php'); ?>
       <img class="rounded float-start img-fluid img-thumbnail rounded mx-auto d-block" 
           src="/boutique/assets/packshots/Grand-sac-fourre-tout-coton-Bagad-de-Nantes.jpeg" />
-      <p>Le Sac Fourre-Tout officiel du Bagad de Nantes</p>
+      <p>Le Grand Sac Fourre-Tout en toile officiel du Bagad de Nantes</p>
       <ul>
         <li>100 % toile de coton</li>
         <li>Compartiment principal ouvert avec accès facile</li>
@@ -28,6 +28,9 @@ require_once('../parts/navbar.html.php');
       </ul>
       <p><b>Couleur</b> : Blanc et noir</p>
       <p><b>Marquage</b> : Impression couleur</p>
+      <p><b>Largeur</b> : 47 cm (d’un côté à l’autre à l’endroit le plus large).</p>
+      <p><b>Profondeur</b> : 12 cm (de l’avant extérieur à l’arrière du sac).</p>
+      <p><b>Hauteur</b> : 38 cm (du fond du sac au point le plus haut du compartiment principal). </p>
       <h3>Consignes d’entretien :</h3>
       <p>Pour préserver l’éclat de son logo, il est recommandé de laver votre sac à la main avec une éponge douce.</p>
       <h3>Un accessoire de mode</h3>
