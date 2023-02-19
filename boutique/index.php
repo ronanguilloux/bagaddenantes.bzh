@@ -33,7 +33,7 @@ require_once('../parts/navbar.html.php');
       
       <a href="/boutique/Polaire-Unisexe-col-zippe-Bagad-de-Nantes">
         <img width="200px" class="rounded float me-2 mb-2 img-fluid img-thumbnail"  
-          src="/boutique/assets/packshots/Polaire-Unisexe-a-col-zippe-Russell.jpeg" /></a>
+          src="/boutique/assets/packshots/Polaire-Unisexe-col-zippe-Bagad-de-Nantes.jpeg" /></a>
 
       <a href="/boutique/Veste-Softshell-Femme-Bagad-de-Nantes">
         <img width="200px" class="rounded float me-2 mb-2 img-fluid img-thumbnail"  
@@ -54,6 +54,10 @@ require_once('../parts/navbar.html.php');
       <a href="/boutique/Sacoche-Bagad-de-Nantes">
         <img width="200px" class="rounded float me-2 mb-2 img-fluid img-thumbnail"  
           src="/boutique/assets/packshots/Sacoche-Bagad-de-Nantes.jpeg" /></a>
+
+      <a href="/boutique/Grand-sac-fourre-tout-coton-Bagad-de-Nantes">
+        <img width="200px" class="rounded float me-2 mb-2 img-fluid img-thumbnail"  
+          src="/boutique/assets/packshots/Grand-sac-fourre-tout-coton-Bagad-de-Nantes.jpeg" /></a>
     </div>
     <?php require_once('../parts/sidebar.html.php'); ?>
 

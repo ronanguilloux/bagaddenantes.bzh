@@ -11,7 +11,7 @@ require_once('../parts/navbar.html.php');
   <div class="row row-cols-1 row-cols-md-2 pt-5">
 
     <div class="col-md-8">
-    <h1 class="mt-0 d-print-none">Boutique</h1>
+      <h1 class="mt-0 d-print-none">Boutique</h1>
       <hr class="d-print-none"/>
       <img class="rounded float-end img-fluid img-thumbnail rounded mx-auto d-block w-25 d-none d-print-block" 
           src="/boutique/assets/qr-code-boutique.png" />
@@ -35,7 +35,7 @@ require_once('../parts/navbar.html.php');
       <p><b>Marquage</b> : Transfert de couleurs (devant)</p>
       <p><b>Manches</b> : Manches courtes</p>
       <p><b>Col</b> : Col rond</p>
-      <p><b>Tailles</b> : du S au 2XL - voir guide ci-dessous</li>
+      <p><b>Tailles</b> : du S au 2XL - voir guide ci-dessous</p>
       <h3>Doux et confortable</h3>
       <p>Pratique et confortable, le t-shirt femme en coton Luxury de Tee Jays® 
         est brodé aux couleurs du Bagad de Nantes.</p>

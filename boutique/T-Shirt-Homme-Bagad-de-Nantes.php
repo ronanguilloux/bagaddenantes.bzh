@@ -11,10 +11,8 @@ require_once('../parts/navbar.html.php');
   <div class="row row-cols-1 row-cols-md-2 pt-5">
 
     <div class="col-md-8">
-      <h1 class="mt-0 d-print-none">Boutique</h1>
-      <hr class="d-print-none"/>
-      <img class="rounded float-end img-fluid img-thumbnail rounded mx-auto d-block w-25 d-none d-print-block" 
-          src="/boutique/assets/qr-code-boutique.png" />
+      <h1 class="mt-0">Boutique</h1>
+      <hr/>
       <h2>T-Shirt Homme Bagad de Nantes <span id="price" class="badge rounded-pill bg-light text-dark">64,00 €</span></h2>
       <p><i>Prix unitaire maximum - varie en fonction du nombre d'unités commandées</i></p>
       <?php require_once('parts/order.html.php'); ?>
@@ -35,6 +33,7 @@ require_once('../parts/navbar.html.php');
       <p><b>Marquage</b> : Transfert de couleurs (devant)</p>
       <p><b>Manches</b> : Manches courtes</p>
       <p><b>Col</b> : Col rond</p>
+      <p><b>Tailles</b> : du S au 3XL - voir guide ci-dessous</p>
       <h3>Doux et confortable</h3>
       <p>Pratique et confortable, le t-shirt homme en coton Luxury de Tee Jays® 
         est brodé aux couleurs du Bagad de Nantes.</p>

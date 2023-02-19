@@ -32,7 +32,7 @@ require_once('../parts/navbar.html.php');
       <p><b>Couleur</b> : Noir</p>
       <p><b>Marquage</b> : Broderie couleur</p>
       <p><b>Manches</b> : Manches longues, fermetures de poignets réglables</p>
-      <p><b>Tailles</b> : du S au 2XL - voir guide ci-dessous</li>
+      <p><b>Tailles</b> : du S au 2XL - voir guide ci-dessous</p>
       <h3>Le favori de l'automne</h3>
       <p>Accueillez la nouvelle saison avec la veste Softshell Langley d'Elevate™.
         Ce coupe-vent léger est un excellent choix pour le jogging et la randonnée,

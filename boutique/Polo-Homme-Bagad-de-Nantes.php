@@ -35,7 +35,7 @@ require_once('../parts/navbar.html.php');
       <p><b>Marquage</b> : Broderie couleur</p>
       <p><b>Manches</b> : Manches courtes</p>
       <p><b>Col</b> : Col standard</p>
-      <p><b>Tailles</b> : du S au 2XL - voir guide ci-dessous</li>
+      <p><b>Tailles</b> : du S au 2XL - voir guide ci-dessous</p>
       <h3>Conçu pour durer, avec style.</h3>
       <p>Conçu pour les environnements de travail au rythme soutenu, 
         le polo Modern Fit Greenville de Harvest est la tenue parfaite pour le 

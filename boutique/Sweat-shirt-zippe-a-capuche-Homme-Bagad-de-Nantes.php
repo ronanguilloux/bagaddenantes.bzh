@@ -33,7 +33,7 @@ require_once('../parts/navbar.html.php');
       <p><b>Couleur</b> : Noir</p>
       <p><b>Marquage</b> : Broderie couleur</p>
       <p><b>Manches</b> : Manches longues</p>
-      <p><b>Tailles</b> : du S au XL - voir guide ci-dessous</li>
+      <p><b>Tailles</b> : du S au XL - voir guide ci-dessous</p>
       <p><b>Type de poignets</b> : Élastique</p>
       <p><b>Caractéristiques de la coupe</b> : Coutures profilées</p>
       <h3>Conçu pour bouger.</h3>

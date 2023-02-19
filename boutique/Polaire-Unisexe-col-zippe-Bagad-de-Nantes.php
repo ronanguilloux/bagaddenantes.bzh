@@ -21,7 +21,7 @@ require_once('../parts/navbar.html.php');
           Confectionnée en polyester anti-bouloche pour un aspect neuf plus durable</p>
       <?php require_once('parts/order.html.php'); ?>
       <img class="rounded float-start img-fluid img-thumbnail rounded mx-auto d-block" 
-        src="/boutique/assets/packshots/Polaire-Unisexe-a-col-zippe-Russell.jpeg" />
+        src="/boutique/assets/packshots/Polaire-Unisexe-col-zippe-Bagad-de-Nantes.jpeg" />
       <p>La Polaire officielle du Bagad de Nantes.</p>
       <ul>
         <li>Micropolaire anti-bouloche 100 % polyester</li>

@@ -32,7 +32,7 @@ require_once('../parts/navbar.html.php');
       <p><b>Couleur</b> : Noir</p>
       <p><b>Marquage</b> : Broderie couleur</p>
       <p><b>Manches</b> : Manches courtes</p>
-      <p><b>Tailles</b> : du S au 2XL - voir guide ci-dessous</li>
+      <p><b>Tailles</b> : du S au 2XL - voir guide ci-dessous</p>
       <h3>Simplicité et élégance</h3>
       <p>Le polo personnalisé pour femme Greenville de Harvest allie le confort et la commodité.</p>
       <h3>Guide des tailles</h3>
