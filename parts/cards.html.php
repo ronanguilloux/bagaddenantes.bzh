@@ -1,6 +1,6 @@
 
 <!-- Cards -->
-<div class="container">
+<div class="container d-print-none">
   <div class="row row-cols-1 row-cols-md-4 m-3 text-center card-group">
 
     <div class="col">

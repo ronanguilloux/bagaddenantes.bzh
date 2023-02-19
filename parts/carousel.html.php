@@ -1,6 +1,6 @@
 
 <!-- Carousel wrapper -->
-<div id="carousel" class="carousel slide" data-bs-ride="carousel">
+<div id="carousel" class="carousel slide d-print-none" data-bs-ride="carousel">
   <template id="carousel-indicator-row">
     <button type="button" data-bs-target="#carousel" data-bs-slide-to="1" aria-label="Slide …"></button>
   </template>

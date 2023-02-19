@@ -1,5 +1,5 @@
 
-      <div class="row align-items-left">
+      <div class="row align-items-left d-print-none">
         <div class="col-sm-3">
           <input type="email" class="form-control mb-3" id="email" placeholder="mon@email.com">
         </div>

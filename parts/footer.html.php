@@ -1,5 +1,5 @@
 
-<footer id="footer" class="top-space">
+<footer id="footer" class="top-space d-print-none">
 
   <div class="footer1">
     <div class="container">

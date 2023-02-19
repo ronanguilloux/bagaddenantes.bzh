@@ -28,6 +28,7 @@
   <link rel="stylesheet" media="screen" href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,700">
   <link rel="stylesheet" href="/assets/css/bootstrap.min.css">
   <link rel="stylesheet" href="/assets/css/main.css?<?php echo date('Ymd'); ?>">
+  <link rel="stylesheet" media="print" href="/assets/css/print.css?<?php echo date('Ymd'); ?>">
 
   <meta name="title"               content="<?php echo $meta['title']; ?>"/>
   <meta name="description"         content="<?php echo $meta['description'];?>"/>

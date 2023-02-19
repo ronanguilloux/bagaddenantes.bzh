@@ -1,6 +1,6 @@
 
 <!-- Sidebar -->
-<div class="sidebar sidebar-<?php echo $meta['code']; ?> col-md-4 ps-3 my-3 position-sticky">
+<div class="sidebar sidebar-<?php echo $meta['code']; ?> col-md-4 ps-3 my-3 position-sticky d-print-none">
   <ul class="list-unstyled lh-lg">
     <li>
       <i class="far fa-address-card"></i>

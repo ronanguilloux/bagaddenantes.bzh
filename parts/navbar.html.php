@@ -1,5 +1,5 @@
 
-<nav class="navbar navbar-expand-lg sticky-top navbar-dark">
+<nav class="navbar navbar-expand-lg sticky-top navbar-dark d-print-none">
   <div class="container-fluid">
     <a class="navbar-brand" href="/">
       <img src="/assets/images/logos/logo40x40.jpeg" alt="Logo Bagad de Nantes" width="40px" height="40px">

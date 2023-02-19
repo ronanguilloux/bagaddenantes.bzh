@@ -11,8 +11,10 @@ require_once('../parts/navbar.html.php');
   <div class="row row-cols-1 row-cols-md-2 pt-5">
 
     <div class="col-md-8">
-      <h1 class="mt-0">Boutique</h1>
-      <hr/>
+      <h1 class="mt-0 d-print-none">Boutique</h1>
+      <hr class="d-print-none"/>
+      <img class="rounded float-end img-fluid img-thumbnail rounded mx-auto d-block w-25 d-none d-print-block" 
+          src="/boutique/assets/qr-code-boutique.png" />
       <h2>Polaire unisexe à col zippé Bagad de Nantes <span id="price" class="badge rounded-pill bg-light text-dark">82,00 €</span></h2>
       <p><i>Prix unitaire maximum - varie en fonction du nombre d'unités commandées</i></p>
       <p>Une polaire Russell™ noire brodée au logo du Bagad de Nantes, confortable au quotidien. 
