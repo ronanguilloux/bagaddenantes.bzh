@@ -11,7 +11,7 @@ require_once('../parts/navbar.html.php');
   <div class="row row-cols-1 row-cols-md-2 pt-5">
 
     <div class="col-md-8">
-      <h1 class="mt-0 d-print-none">Boutique</h1>
+      <h1 class="mt-0 d-print-none"><a href="/boutique">La Boutique du Bagad</a></h1>
       <hr class="d-print-none"/>
       <img class="rounded float-end img-fluid img-thumbnail rounded mx-auto d-block w-25 d-none d-print-block" 
           src="/boutique/assets/qr-code-boutique.png" />
