@@ -31,7 +31,7 @@ require_once('../parts/navbar.html.php');
       <p><b>Marquage</b> : Broderie</p>
       <p><b>Manches</b> : Manches courtes</p>
       <p><b>Col</b> : Col rond</p>
-      <p><b>Tailles</b> : du XS au 4XL - voir guide ci-dessous - Attention, le modèle taille petit.</p>
+      <p><b>Tailles</b> : du S au 4XL - voir guide ci-dessous - Attention, le modèle taille petit.</p>
       <h3>Doux et écolo, un choix éthique et durable</h3>
       <p>Fabriqué entièrement en coton biologique, le T-shirt femme col en V GOTS de CottoVer®, brodé aux couleurs du Bagad de Nantes,
         est bien plus qu'un simple T-shirt.
