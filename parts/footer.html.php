@@ -62,6 +62,7 @@
               <a href="/news">News</a> |
               <a href="/nos-partenaires">Partenaires</a> |
               <a href="/sons">Sons</a> |
+              <a href="/photos">Photos</a> |
               <a href="/videos">Vidéos</a> |
               <a href="/mentions-legales">Mention légales</a> |
               <a href="/nous-contacter">Contact</a>

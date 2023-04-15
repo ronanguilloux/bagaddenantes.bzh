@@ -43,6 +43,11 @@
       <br><span class="small text-muted"></span>
     </li>
     <li>
+      <i class="fas fa-camera-retro"></i>
+      <a href="/photos">Photos</a>
+      <br><span class="small text-muted"></span>
+    </li>
+    <li>
       <i class="fab fa-youtube"></i>
       <a href="/videos">Vidéos</a>
       <br><span class="small text-muted"></span>

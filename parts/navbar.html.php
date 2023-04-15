@@ -37,6 +37,9 @@
           <a class="nav-link" href="/sons">Sons</a>
         </li>
         <li class="nav-item">
+          <a class="nav-link" href="/photos">Photos</a>
+        </li>
+        <li class="nav-item">
           <a class="nav-link" href="/videos">Vidéos</a>
         </li>
         <li class="nav-item">
