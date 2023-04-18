@@ -24,12 +24,12 @@
           et suivent une méthode d'apprentissage proposée par Sonerion, la Fédération des bagadoù.
 				</p>
 				<p>
-					Que vous soyez débutants ou peu aguerris, si l’aventure musicale et humaine vous tente,
-					n’hésitez pas, vous serez les bienvenu(e)s.
+					Que vous soyez débutants ou peu aguerris, si l'aventure musicale et humaine vous tente,
+					n'hésitez pas, vous serez les bienvenu(e)s.
 					Le responsable formation reviendra vers vous avec les détails, et vous invitera à venir nous rencontrer.
         </p>
 
-				<?php //require_once('../parts/ouverture_inscriptions.html.php'); ?>
+				<?php require_once('parts/ouverture_inscriptions.html.php'); ?>
 
         <h2>Le Bagadig, l'apprentissage de la musique d'ensemble</h2>
         <p>En plus des cours collectifs, <a href="/le-bagadig">le Bagadig</a> est une formation d'apprentissage préparatoire au Bagad.
@@ -70,7 +70,7 @@
         </p>
 				<h3>Bon à savoir</h3>
         <ul>
-          <li><a href="/inscription">Les prochaines inscriptions</a> seront ouvertes en ligne, de juin à octobre <?php echo '2023'//date('Y') ?>.</li>
+          <li><a href="/inscription">Les inscriptions</a> sont ouvertes en ligne, de juin à octobre <?php echo '2023'//date('Y') ?>.</li>
           <li>Tout savoir sur l'achat ou la location d'<a href="/insruments">instruments pour les élèves en formation</a></li>
           <li><a href="mailto:formation@bagaddenantes.bzh">Contactez-nous</a> pour toute question</li>
         </ul>

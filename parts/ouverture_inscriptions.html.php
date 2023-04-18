@@ -1,9 +1,9 @@
 <p class="lead alert alert-success my-4" role="alert">
   <i class="fas fa-bullhorn"></i>
-  <b>Juin <?php echo date('Y') ?> :
-  Les inscriptions sont ouvertes !</b>
+  <b><?php echo sprintf('%s - %s', date('Y'), date('Y')+1) ?> :
+  Les inscriptions sont ouvertes de juin à septembre</b>
   <br />Formation musicale en bombarde, cornemuse et caisse</b>.
   Attention, les places en formation ne sont pas illimitées !
-  Début des cours: fin septembre  <?php echo date('Y') ?>
-  <br /><br />➡️ <a href="/inscription">Comment s'inscrire</a> 🎶
+  Début des cours: début octobre <?php echo date('Y') ?>
+  <br /><a href="/inscription">Comment s'inscrire</a> 🎶
 </p>

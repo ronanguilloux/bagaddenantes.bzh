@@ -28,9 +28,9 @@
 					<p class="lead alert alert-success my-4" role="alert">
 						<i class="fas fa-bullhorn"></i>
 						<b>Juin <?php echo date('Y') ?> :
-						Les inscriptions sont closes : </b>
-						<br>Bienvenue à nos 35 élèves en formation !
-						<br />Début des cours : début Octobre 2022
+						Les inscriptions ouvrent en juin : </b>
+						<br>Le Bagad accueille chaque année plus de 30 élèves en formation
+						<br />Début des cours : début Octobre 2023
 				</div>
 			</div><!-- /row -->
 			<div class="row row-cols-1 row-cols-md-2 pt-5">

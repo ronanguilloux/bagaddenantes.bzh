@@ -26,7 +26,7 @@
 				</p>
 
 				<?php
-				//require_once('parts/ouverture_inscriptions.html.php');
+					require_once('parts/ouverture_inscriptions.html.php');
 				?>
 
 				<img class="img-fluid shadow-sm p-2 mb-1 bg-body rounded"

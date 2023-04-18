@@ -16,15 +16,26 @@
         <img class="img-fluid shadow-sm p-2 mb-1 bg-body rounded"
         src="/assets/images/bg_header.webp" alt="Celtomania 2021 / Kristell Mimoun" />
         <div class="credits-light mb-3">Celtomania 2021 / Kristell Mimoun</div>
+				<p><b>2023-2024</b> :
+				Les inscriptions sont ouvertes <b>de juin à septembre</b></p>
+				<p>
+  				<i class="fas fa-bullhorn"></i>
+          Que vous soyez débutants ou peu aguerris, si l'aventure musicale et humaine vous tente,
+          n'hésitez pas, vous serez les bienvenu(e)s, écrivez-nous à <a href="mailto:formation@bagaddenantes.bzh?subject=Inscriptions Formation 2022">formation@bagaddenantes.bzh</a>
+					en nous indiquant :
+					<ul>
+						<li>votre nom, age, et vos coordonnées</li>
+						<li>un résumé de votre expérience musicale</li>
+						<li>l'instrument choisi</li>
+					</ul>
+				</p>
+		
 				<p>
 					Le Bagad demande à ses adhérents de répondre aux obligations sanitaires et légales en cours pour participer aux activités de l'association.
-					Pour toute autre question, écrivez-nous à <a href="mailto:formation@bagaddenantes.bzh?subject=Inscription/Formation">formation@bagaddenantes.bzh</a>.
+					Pour toute question, écrivez-nous à <a href="mailto:formation@bagaddenantes.bzh?subject=Inscription/Formation">formation@bagaddenantes.bzh</a>.
 				</p>
-				<p><b>Octobre 2023</b> : Les inscriptions pour les cours sont complètes pour cette année.
-				<br>Les inscriptions ré-ouvriront <b>en juin 2023</b> pour l'année 2023-2024 !</p>
 				<h2 class="mt-0">Formation musicale</h2>
-				<p class="lead alert alert-success my-4" role="alert">
-				  <i class="fas fa-bullhorn"></i>
+				<p> 
 					<b>Cours d'instruments, horaires, lieux :</b>
 					<a href="/formation">retrouvez toutes ces informations sur cette page</a>
 				</p>
@@ -44,15 +55,7 @@
 					la cotisation annuelle à l'association est de 30€ par personne, ou 25€ à partir de la 2ème personne de la même famille.
 					<br> Le coût des cours d'instruments est détaillé sur la page <a href="/formation">formation</a>.
 				</p>
-				<!--<p>
-          Que vous soyez débutants ou peu aguerris, si l’aventure musicale et humaine vous tente,
-          n’hésitez pas, vous serez les bienvenu(e)s, écrivez-nous à <a href="mailto:formation@bagaddenantes.bzh?subject=Inscriptions Formation 2022">formation@bagaddenantes.bzh</a> en nous indiquant :
-					<ul>
-						<li>votre nom, age, et vos coordonnées</li>
-						<li>un résumé de votre expérience musicale</li>
-						<li>l'instrument choisi – Le Bagad propose plusieurs formations mais recherche plus particulièrement des élèves en bombardes et en caisses claires.</li>
-					</ul>
-				</p>-->
+				
 
 			</div>
 

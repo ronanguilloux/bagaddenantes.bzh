@@ -20,6 +20,14 @@
 				<h3>Saint-Brieuc - Concours de Printemps 2023</h2>
 
 				<p>Crédits : <a 
+					href="https://www.jingoo.com/liste_photos.php?id_album=5326659" 
+					target="_blank">Guy Bescond Photographe</a></p>
+				<p><a href="https://www.jingoo.com/liste_photos.php?id_album=5326659" 
+					target="_blank"><img class="img-fluid shadow-sm bg-body rounded"
+      		src="/assets/photos/2023-GuyBescondPhotographe-StBrieuc.png"
+					alt="Guy Bescond Photographe" /></a></p>
+
+				<p>Crédits : <a 
 					href="https://www.flickr.com/photos/yoannlegoff" 
 					target="_blank">Yoann Le Goff</a></p>
 				<p><a href="https://www.flickr.com/groups/bagadnaoned/pool/yoannlegoff" 

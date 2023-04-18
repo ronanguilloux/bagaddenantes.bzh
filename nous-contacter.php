@@ -29,6 +29,17 @@
           La porte d'entrée de l'école de musique fonctionne avec un code,
          merci de nous appeler, quelqu'un viendra vous ouvrir !
 				</p>
+				<h2>Prestations, spectacles, concerts, défilés</h2>
+				<p>Pour toute demande de devis pour une prestation publique ou privée,
+				<br>contactez notre responsable Sorties/Concerts à cette adresse : 
+				<a href="mailto:prestations@bagaddenantes.bzh">prestations@bagaddenantes.bzh</a>
+				</p>
+				<h2>Formation</h2>
+				<p>Pour toute demande d'information concerant nos <a href="/formation">formations musicales</a>,
+				<br>contactez notre responsable Formation à cette adresse : 
+				<a href="mailto:formation@bagaddenantes.bzh">formation@bagaddenantes.bzh</a>
+				</p>
+
 				<!--
 				<form action="/nous-contacter" method="post">
 					<div class="row">
