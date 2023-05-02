@@ -22,62 +22,45 @@
           au Studio Saint Georges des Batignolles, <a
           href="https://www.google.com/maps/place/27+Av.+de+la+Gare+de+Saint-Joseph,+44300+Nantes,+France" target="_blank">27
           avenue de la Gare St Joseph, Nantes</a></dd>
-
-					<dt class="col-sm-2">27 mars 2022</dt>
-					<dd class="col-sm-10">
-						<div class="alert alert-success" role="alert">
-							<a href="https://sonerion.bzh/category/infos-concours/" target="_blank"><b>Concours de Printemps de 2nde catégorie</b></a>
-							– Première manche du Championnat National des Bagadoù, à Saint Brieuc (22).
-							<br><i class="far fa-file-pdf"></i> <a
-							href="https://sonerion.bzh/wp-content/uploads/2021/11/Ordre-de-passage-2022.pdf" target="_blank">Consultez les ordres de passage</a>.
-						</div>
-					</dd>
-
-					<dt class="col-sm-2">9 avril 2022</dt>
-					<dd class="col-sm-10"><a href="https://carnavalnantes.wixsite.com/carnaval-de-nantes"
-						target="_blank"><b>Carnaval de Nantes</b></a>, défilé de nuit
-					</dd>
 					-->
-					<dt class="col-sm-2">17 septembre 2022</dt>
+					<dt class="col-sm-2">21 mai 2023</dt>
 					<dd class="col-sm-10">
-						<div class="alert alert-success" role="alert"><b>70 ans de la Kevenn Alre 🦉</b> - Auray (56)<br/>
-							<a href="https://www.youtube.com/watch?v=moNWts3rQUc" target="_blank">Vidéo du triomphe des sonneurs et du spectacle</a>
-							<br>(crédits : Disglavier)
+						<div class="alert alert-info" role="alert"><b>Audition publique du Bagadig</b> - Pornic (44)<br/>
+							<a href="https://www.facebook.com/festAnnedeBretagne/" target="_blank">Festival Anne de Bretagne 2023</a>
 						</div>
 					</dd>
 
-					<dt class="col-sm-2">31 octobre 2022</dt>
+					<dt class="col-sm-2">21 juin 2023</dt>
 					<dd class="col-sm-10">
-						<div class="alert alert-success" role="alert"><b>Gala de clôture</b> du Festival
-							<a href="https://www.presquilebreizh.bzh/" target="_blank">Presqu'île Breizh à Quiberon</a> avec le
-							<a href="http://www.cercledeclisson.fr/" target="_blank">Cercle Celtique Olivier de Clisson</a>
-							</div>
+						<div class="alert alert-info" role="alert"><b>Fête de la Musique 2023</b>
+							<br>Le Bagad vous donne rendez-vous à 19h45 face à la Médiathèque de Nantes 
+						</div>
 					</dd>
 
-					<dt class="col-sm-2">26 mars 2023</dt>
-					<dd class="col-sm-10">
-						<div class="alert alert-warning" role="alert">
-							<a href="https://www.festival-interceltique.bzh" target="_blank"><b>1ère manche du Championnat National des Bagadoù</b></a>,
-							2nde catégorie : <a href="https://sonerion.bzh/event/bagadou-2eme-categorie-2/" target="_blank">Concours de Saint-Brieuc</a>,
-							 organisé par la fédération <a href="https://sonerion.bzh/" target="_blank">Sonerion</a>
-							</div>
-					</dd>
-
-
-					<dt class="col-sm-2">Juillet 2023</dt>
+					<dt class="col-sm-2">30 juin 2023</dt>
 					<dd class="col-sm-10">
 						<div class="alert alert-info" role="alert"><b>Ouverture des
-							<a href="https://jeuxdebretagne.bzh" target="_blank">Jeux de Bretagne</a></b> à Nantes : Programme à venir !
+							<a href="https://jeuxdebretagne.bzh" target="_blank">Jeux de Bretagne</a></b> à Nantes.
+							<br>Rendez-vous à 19h30 à la Brasserie Little Atlantique Brewery
 							</div>
 					</dd>
 
-					<dt class="col-sm-2">6 août 2023 </dt>
+					<dt class="col-sm-2">2 juillet 2023 </dt>
 					<dd class="col-sm-10">
-						<div class="alert alert-warning" role="alert">
-							<a href="https://www.festival-interceltique.bzh" target="_blank"><b>2ème manche du Championnat National des Bagadoù</b></a>,
-							2nde catégorie, durant le festival Interceltique de Lorient (56)</a>	– billetterie en ligne à partir du 7 février 2023
-						</div>
+						<div class="alert alert-info" role="alert"><b>Participation du Bagad aux
+							<a href="https://jeuxdebretagne.bzh" target="_blank">Jeux de Bretagne</a></b> à Nantes.
+							<br>Programme à venir.
+							</div>
 					</dd>
+
+					<dt class="col-sm-2">5 août 2023 </dt>
+					<dd class="col-sm-10">
+						<div class="alert alert-info" role="alert"><b>
+							<a href="https://sonerion.bzh/event/bagadou-2eme-categorie-3/" target="_blank">Championnat national des bagadoù de deuxième catégorie</a></b>
+							à Lorient dans le cadre du Festival Interceltique, organisé par la fédération <a href="https://sonerion.bzh/" target="_blank">Sonerion</a>
+							</div>
+					</dd>
+
 				</dl>
         <!--
 				<h2 class="mt-0">Agenda complet</h2>

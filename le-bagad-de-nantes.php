@@ -220,10 +220,18 @@
 					<dd class="col-sm-9">
 						Clisson - Celtomania, avec le Cercle de Clisson, l'un des rares concerts durant la crise de la Covid-19.
 					</dd>
+					<dt class="col-sm-3">2022</dt>
+					<dd class="col-sm-9">
+					Gala de clôture du Festival Presqu'île Breizh à Quiberon avec le Cercle Celtique Olivier de Clisson
+					</dd>
 				</dl>
-				<img class="img-fluid shadow-sm p-2 mb-1 bg-body rounded"
-				src="/assets/images/albums/2021/11-26-celtomania/IMG_7035.webp" alt="Celtomania 2021 / Kristell Mimoun" />
-        <div class="credits-light mb-3">Celtomania 2021 / Kristell Mimoun</div>
+
+				<div class="ratio ratio-16x9 mb-4 shadow">
+					<iframe title="YouTube video player" frameborder="0" allowfullscreen
+						src="https://www.youtube.com/embed/huOveLOyAUQ"
+						allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"></iframe>
+				</div>
+
 				<p>
 					Le Bagad de Nantes s’est aussi produit à l’étranger :
 					<ul class="list-unstyled ps-3">
@@ -248,7 +256,9 @@
 				</dl>
 
 				<hr/>
-
+				<img class="img-fluid shadow-sm p-2 mb-1 bg-body rounded"
+				src="/assets/images/albums/2021/11-26-celtomania/IMG_7035.webp" alt="Celtomania 2021 / Kristell Mimoun" />
+        <div class="credits-light mb-3">Celtomania 2021 / Kristell Mimoun</div>
 			</div>
 
 

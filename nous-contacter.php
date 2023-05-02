@@ -35,7 +35,7 @@
 				<a href="mailto:prestations@bagaddenantes.bzh">prestations@bagaddenantes.bzh</a>
 				</p>
 				<h2>Formation</h2>
-				<p>Pour toute demande d'information concerant nos <a href="/formation">formations musicales</a>,
+				<p>Pour toute demande d'information concernant nos <a href="/formation">formations musicales</a>,
 				<br>contactez notre responsable Formation à cette adresse : 
 				<a href="mailto:formation@bagaddenantes.bzh">formation@bagaddenantes.bzh</a>
 				</p>
