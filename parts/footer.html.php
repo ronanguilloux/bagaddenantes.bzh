@@ -58,6 +58,7 @@
               <a href="/le-bagad-de-nantes">Le Bagad</a> |
               <a href="/le-bagadig">Le Bagadig</a> |
               <a href="/formation">Formation</a> |
+              <a href="https://market-factory.fr/boutique/boutique/bagad-naoned.html" target="_blank">Boutique</a> |
               <a href="/agenda">Agenda 2022</a> |
               <a href="/news">News</a> |
               <a href="/nos-partenaires">Partenaires</a> |

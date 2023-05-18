@@ -23,17 +23,38 @@
 	<!-- /Intro-->
 
 	<div class="container">
+
+		<div class="row justify-content-md-center">
+
+			<div class="col-md-4 text-center align-middle">
+				<p class="lead alert alert-info my-4" role="alert">
+					<i class="fas fa-graduation-cap"></i>
+					<b>Formation <?php echo sprintf('%s-%s', date('Y'), date('Y')+1) ?> :
+					Les inscriptions ouvrent en juin.</b>
+					Le Bagad accueille chaque année plus de 30 élèves en formation.
+					Début des cours en octobre 2023
+				</p>
+			</div>
+
+			<div class="col-md-4 text-center align-middle">
+				<p class="lead alert alert-info my-4" role="alert">
+					<i class="fas fa-tshirt"></i>
+					<b><a href="https://market-factory.fr/boutique/boutique/bagad-naoned.html" target="_blank">La boutique officielle :</a></b>
+					T-shirt, Polo, vestes softshell et sweat-shirts brodés au logo du Bagad de Nantes, disponible à la commande en ligne.
+				</p>
+			</div>
+
+		</div><!-- /row -->
+		
 		<div class="row justify-content-md-center">
 			<div class="col-md-8 text-center align-middle">
-					<p class="lead alert alert-success my-4" role="alert">
-						<i class="fas fa-bullhorn"></i>
-						<b>Juin <?php echo date('Y') ?> :
-						Les inscriptions ouvrent en juin : </b>
-						<br>Le Bagad accueille chaque année plus de 30 élèves en formation
-						<br />Début des cours : début Octobre 2023
-				</div>
-			</div><!-- /row -->
-			<div class="row row-cols-1 row-cols-md-2 pt-5">
+				<a href="https://market-factory.fr/boutique/boutique/bagad-naoned.html"
+					target="_blank"><img src="/assets/images/boutique.webp" 
+					alt="Boutique du Bagad de Nantes" class="img-thumbnail shadow-sm p-2 bg-body rounded"></a>
+			</div>
+		</div><!-- /row -->	
+
+		<div class="row row-cols-1 row-cols-md-2 pt-5">
 			<div class="col-md-4">
 				<h2 class="mt-0">Tradition et dynamisme</h2>
 				<p>

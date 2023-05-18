@@ -22,6 +22,9 @@
           <a class="nav-link" href="/formation">Formation</a>
         </li>
         <li class="nav-item">
+          <a class="nav-link" href="https://market-factory.fr/boutique/boutique/bagad-naoned.html" target="_blank">Boutique</a>
+        </li>
+        <li class="nav-item">
           <a class="nav-link" href="/agenda">Agenda</a>
         </li>
         <li class="nav-item">
