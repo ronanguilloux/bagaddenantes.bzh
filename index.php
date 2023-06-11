@@ -29,8 +29,7 @@
 			<div class="col-md-4 text-center align-middle">
 				<p class="lead alert alert-info my-4" role="alert">
 					<i class="fas fa-graduation-cap"></i>
-					<b>Formation <?php echo sprintf('%s-%s', date('Y'), date('Y')+1) ?> :
-					Les inscriptions ouvrent en juin.</b>
+					<b><a href="/formation">Inscriptions <?php echo sprintf('%s-%s', date('Y'), date('Y')+1) ?></a> :</b>
 					Le Bagad accueille chaque année plus de 30 élèves en formation.
 					Début des cours en octobre 2023
 				</p>
