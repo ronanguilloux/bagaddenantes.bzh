@@ -44,13 +44,6 @@
 						</div>
 					</dd>
 
-					<dt class="col-sm-2">19 juin 2023</dt>
-					<dd class="col-sm-10">
-						<div class="alert alert-info" role="alert"><b>Prestation privée à bord du navire de croisière 'Azamara Quest'</b>,
-						Quai de Cheviré, Port de commerce de Nantes (44)
-						</div>
-					</dd>
-
 					<dt class="col-sm-2">21 juin 2023</dt>
 					<dd class="col-sm-10">
 						<div class="alert alert-info" role="alert"><b>Fête de la Musique 2023</b>
@@ -68,8 +61,16 @@
 
 					<dt class="col-sm-2">2 juillet 2023 </dt>
 					<dd class="col-sm-10">
-						<div class="alert alert-info" role="alert"><b>Participation du Bagad aux
+						<div class="alert alert-info" role="alert"><b>
 							<a href="https://jeuxdebretagne.bzh" target="_blank">Jeux de Bretagne</a></b> à Nantes (44).
+							<br>Programme à venir.
+							</div>
+					</dd>
+
+					<dt class="col-sm-2">23 juillet 2023 </dt>
+					<dd class="col-sm-10">
+						<div class="alert alert-info" role="alert"><b>
+							<a href="https://www.festival-cornouaille.bzh" target="_blank">Festival de Cornouailles</a></b> à Quimper (29).
 							<br>Programme à venir.
 							</div>
 					</dd>
@@ -77,7 +78,7 @@
 					<dt class="col-sm-2">5 août 2023 </dt>
 					<dd class="col-sm-10">
 						<div class="alert alert-info" role="alert"><b>
-							<a href="https://sonerion.bzh/event/bagadou-2eme-categorie-3/" target="_blank">Championnat national des bagadoù de deuxième catégorie</a></b>
+							<a href="https://sonerion.bzh/event/bagadou-2eme-categorie-3/" target="_blank">Championnat national des bagadoù - 2ème catégorie</a></b>
 							à Lorient (56) dans le cadre du Festival Interceltique, organisé par la fédération <a href="https://sonerion.bzh/" target="_blank">Sonerion</a>
 							</div>
 					</dd>
