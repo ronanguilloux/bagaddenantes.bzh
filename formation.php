@@ -40,7 +40,7 @@
 
 
 				<h2>Questions, informations</h2>
-				<p>Que vous soyez débutant, faux-débutant ou confirmé, 
+				<p>Que vous soyez débutant, faux-débutant ou confirmé,
 					contactez-nous pour toute demande d'information
 					à l'adresse <a href="mailto:formation@bagaddenantes.bzh">formation@bagaddenantes.bzh</a>.
 
@@ -77,7 +77,6 @@
 				<h2 class="my-3">Le Bagad de Nantes, éligible au Pass Culture Jeunes!</h2>
 				<p>
 					<img src="/assets/images/formation/Pass_Culture.webp" class="float-start" />
-					<img src="/assets/images/formation/Pass_Culture_Region.webp" class="float-start mx-2" />
             Le Bagad de Nantes propose des formations éligibles au Pass Culture.
             La démarche se fait au moment de l'inscription.
 				</p>
@@ -89,7 +88,7 @@
 					*/ ?>
 				</div>
 
-        <h2>Stages et rencontres inter-bagadoù en cours d'année</h2>
+        <h2 class="my-5">Stages et rencontres inter-bagadoù en cours d'année</h2>
         <p>
           Afin de conforter les jeunes musiciens dans leur progression,
           de leur permettre de se connaître entre eux et de donner à leur entourage l’occasion d’apprécier leur travail,

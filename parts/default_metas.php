@@ -23,7 +23,7 @@
   $meta['code'] =         $code;
   $meta['name'] =         $name;
   $meta['title'] =        $title;
-	$meta['description'] =  $description;
+	$meta['description'] =  $title; //$description;
 	$meta['lang'] =         'fr';
 	$meta['locale'] =       'fr_FR';
   $meta['image'] =        'https://bagaddenantes.bzh/assets/images/Bagad-de-Nantes-1.webp';

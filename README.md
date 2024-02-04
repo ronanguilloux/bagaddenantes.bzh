@@ -38,14 +38,15 @@ cd some_folder
 php -S 127.0.0.1:8000
 ```
 
+Note that if you're using a local PHP runtime as a server (the `-s`option above) then Apache URL rewriting won't work using `.htaccess`. So when using the `php -s` locally and get the URLs working, just add ``php` to URLs in the browser navigation bar. This is not required when in production online, where Apache runs the URL reweriting described in the `.htacess` file.
 
 Apache2 *local* Vhost:
 
 ```
 <VirtualHost *:80>
     ServerName bagad
-    DocumentRoot /Users/ronan/Work/www/bagad
-    <Directory /Users/ronan/Work/www/bagad>
+    DocumentRoot /some/user/Work/www/bagad
+    <Directory /some/user/Work/www/bagad>
         Options FollowSymLinks
         AllowOverride All
         Require all granted
