@@ -28,7 +28,7 @@
 					<dd class="col-sm-10">
 						<div class="alert alert-info" role="alert">
 							<b>Répétition générale du Bagad</b>, à Nantes (44), en vue du Championnat 
-							<a href="https://sonerion.bzh/" target="_blank">Sonerion</a> des Bagadoù.<br> 
+							<a href="https://sonerion.bzh/" target="_blank">Sonerion</a> des Bagadoù. 
 								Rendez-vous à venir, à Nantes (44).
 				  	</div>
 					</dd>
