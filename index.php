@@ -16,7 +16,7 @@
 			<h1 class="thin mt-5">Bagad de Nantes<br><i>Bagad Naoned</i></h1>
 			<p class="text-muted">
 				Créé en 1968 – 50 musiciens - 4 pupitres – 30 élèves en formation.
-					Le Bagad de Nantes évolue en 2nde catégorie au Championnat National des Bagadoù.
+					Le Bagad de Nantes évolue en 3ème catégorie au Championnat National des Bagadoù.
 			</p>
 		</div>
 	</div>

@@ -165,8 +165,20 @@
 
 					<dt class="col-sm-3">2020-2021</dt>
 					<dd class="col-sm-9">Les concours de printemps et d'été du championnat sont annulés pour cause de pandémie de coronavirus.
-						Le bagad ne peut réaliser qu'un petit nombre d'animations publiques, et poursuit la formation des élèves.
+						Le bagad ne peut réaliser qu'un petit nombre d'animations publiques, et poursuit la formation des élèves. Le site web fait peau neuve.
 					</dd>
+
+					<dt class="col-sm-3">2022-2023</dt>
+					<dd class="col-sm-9">Une année de transition pour l'association, le Bagad et le Bagadig :
+						 Musicalement, les cornemuses du Bagad expérimentent le répertoire et l'instrument <i>en Do</i>, le temps d'une belle suite, "La tisseuse de Lin".
+						 Une année de transition aussi dans la direction du groupe, avec un changement de Penn Soner : Eric prend la suite de Louis-Marie.
+						 A l'issue du Championnat, le Bagad de Nantes retrouve la 3ème catégorie et enchaîne une douzaine de sorties au cours de l'année.
+						Le bagad ouvre une boutique en ligne de vêtements brodés du nouveau logo.</dd>
+					
+					<dt class="col-sm-3">2024</dt>
+					<dd class="col-sm-9">Le Bagad repasse <i>en Sib</i> et prépare pour le concours de Printemps une suite de l'Aven.
+						La formation continue de prendre une place grandissante, avec maintenant près de 30 élèves dont la moitié jouent au Bagdig.
+						L'effectif des élèves a doublé en 3 ans. Les soirées de vie de groupe (Halloween, Noël, Galette de Rois, P'tits Lu) sont autant d'occasion d'intégrer les nouveaux membres.</dd>
 				</dl>
 
 				<div class="ratio ratio-16x9 mb-4">
@@ -222,8 +234,13 @@
 					</dd>
 					<dt class="col-sm-3">2022</dt>
 					<dd class="col-sm-9">
-					Gala de clôture du Festival Presqu'île Breizh à Quiberon avec le Cercle Celtique Olivier de Clisson
+						Gala de clôture du Festival Presqu'île Breizh à Quiberon avec le Cercle Celtique Olivier de Clisson
 					</dd>
+					<dt class="col-sm-3">2023</dt>
+					<dd class="col-sm-9">
+						Le nombre d'élèves en formation (30) a doublé en 3 ans. 
+					</dd>
+
 				</dl>
 
 				<div class="ratio ratio-16x9 mb-4 shadow">

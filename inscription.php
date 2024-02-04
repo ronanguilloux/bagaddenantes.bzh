@@ -16,10 +16,17 @@
         <img class="img-fluid shadow-sm p-2 mb-1 bg-body rounded"
         src="/assets/images/bg_header.webp" alt="Celtomania 2021 / Kristell Mimoun" />
         <div class="credits-light mb-3">Celtomania 2021 / Kristell Mimoun</div>
-				<p><b>2023-2024</b> :
-				Les inscriptions sont ouvertes <b>de juin à septembre</b></p>
-				<p>
+				
+				<p class="lead alert alert-success my-4" role="alert">
   				<i class="fas fa-bullhorn"></i>
+					<b><?php echo sprintf('%s - %s', date('Y'), date('Y')+1) ?> :
+					Les inscriptions sont ouvertes de juin à septembre</b>
+					<br />Formation musicale en bombarde, cornemuse et caisse</b>.
+					Attention, les places en formation ne sont pas illimitées !
+					Début des cours: début octobre <?php echo date('Y') ?>
+				</p>
+
+				<p>
           Que vous soyez débutants ou peu aguerris, si l'aventure musicale et humaine vous tente,
           n'hésitez pas, vous serez les bienvenu(e)s, écrivez-nous à <a href="mailto:formation@bagaddenantes.bzh?subject=Inscriptions Formation 2022">formation@bagaddenantes.bzh</a>
 					en nous indiquant :

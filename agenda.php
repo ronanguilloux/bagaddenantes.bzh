@@ -23,66 +23,100 @@
           href="https://www.google.com/maps/place/27+Av.+de+la+Gare+de+Saint-Joseph,+44300+Nantes,+France" target="_blank">27
           avenue de la Gare St Joseph, Nantes</a></dd>
 					-->
-					<dt class="col-sm-2">21 mai 2023</dt>
+				
+					<dt class="col-sm-2">2 mars 2024</dt>
 					<dd class="col-sm-10">
-						<div class="alert alert-info" role="alert"><b>Audition publique du Bagadig</b> - Pornic (44)<br/>
-							<a href="https://www.facebook.com/festAnnedeBretagne/" target="_blank">Festival Anne de Bretagne 2023</a>
+						<div class="alert alert-info" role="alert">
+							<b>Répétition générale du Bagad</b>, à Nantes (44), en vue du Championnat 
+							<a href="https://sonerion.bzh/" target="_blank">Sonerion</a> des Bagadoù.<br> 
+								Rendez-vous à venir, à Nantes (44).
+				  	</div>
+					</dd>
+					<dt class="col-sm-2">3 mars 2024</dt>
+					<dd class="col-sm-10">
+						<div class="alert alert-info" role="alert"><b>Concours <a href="https://sonerion.bzh/" 
+						target="_blank">Sonerion</a> - Championnat des Bagadoù, 3ème catégorie à Vannes(56)</b><br/>
+							<a href="https://www.billetweb.fr/74e-championnat-national-des-bagadou-de-3e-categorie-1ere-manche-vannes" 
+							target="_blank">Billeterie</a> et
+							<a href="https://sonerion.bzh/2024/01/15/tirage-au-sort-des-ordres-de-passage-bagadou-2024/" 
+							target="_blank">ordre de passages</a>. 
 						</div>
 					</dd>
 
-					<dt class="col-sm-2">5 juin 2023</dt>
+					<dt class="col-sm-2">9 mars 2024</dt>
 					<dd class="col-sm-10">
-						<div class="alert alert-info" role="alert"><b>Prestation privée au Château de la Poterie</b>,
-						La Chapelle-sur-Erdre (44)
+						<div class="alert alert-info" role="alert"><b>Bagad et Bagadig au Carnaval de Nantes</b><br/>
+							<a href="https://carnavalnantes.wixsite.com/carnaval-de-nantes/general-6-1" target="_blank">Carnaval 
+								de Nuit 2024, 21h</a>. Départ Place Foch, cours Saint-André (cathédrale).
 						</div>
 					</dd>
 
+					<dt class="col-sm-2">6 avril 2024</dt>
+					<dd class="col-sm-10">
+						<div class="alert alert-info" role="alert"><b>Fête de la Saint-Patrick</b> à St-Joachim (44)
+						</div>
+					</dd>
+
+					<dt class="col-sm-2">19 mai 2024</dt>
+					<dd class="col-sm-10">
+						<div class="alert alert-info" role="alert"><b>Fête Biennale de Ville Fontenay le Comte (85)</b>
+						</div>
+					</dd>
+<!--
 					<dt class="col-sm-2">16 juin 2023</dt>
 					<dd class="col-sm-10">
 						<div class="alert alert-info" role="alert"><b>Prestation publique - Fête du quartier de Toutes-Aides</b>,
 						Place Victor Basch, Nantes (44)
 						</div>
 					</dd>
+-->
+					<dt class="col-sm-2">9 juin 2024</dt>
+					<dd class="col-sm-10">
+						<div class="alert alert-info" role="alert"><b>Fête des P'tit Lu 2024</b>
+							<br>Le Bagad fête ses élèves et son Bagadig.
+						</div>
+					</dd>
 
-					<dt class="col-sm-2">21 juin 2023</dt>
+					<dt class="col-sm-2">21 juin 2024</dt>
 					<dd class="col-sm-10">
 						<div class="alert alert-info" role="alert"><b>Fête de la Musique 2023</b>
 							<br>Le Bagad vous donne rendez-vous à 19h45 face à la Médiathèque de Nantes (44)
 						</div>
 					</dd>
 
-					<dt class="col-sm-2">30 juin 2023</dt>
+					<dt class="col-sm-2">28 juin 2024</dt>
 					<dd class="col-sm-10">
 						<div class="alert alert-info" role="alert"><b>Ouverture des
-							<a href="https://jeuxdebretagne.bzh" target="_blank">Jeux de Bretagne</a></b>.
-							<br>Rendez-vous à 19h30 à la Brasserie Little Atlantique Brewery à Nantes (44)
-							</div>
+							<a href="https://jeuxdebretagne.bzh" target="_blank">Jeux de Bretagne 2024</a></b> à Nantes.<br>
+						</div>
 					</dd>
 
-					<dt class="col-sm-2">2 juillet 2023 </dt>
+					<dt class="col-sm-2">14 juillet 2024</dt>
 					<dd class="col-sm-10">
-						<div class="alert alert-info" role="alert"><b>
-							<a href="https://jeuxdebretagne.bzh" target="_blank">Jeux de Bretagne</a></b> à Nantes (44).
-							<br>Programme à venir.
-							</div>
+						<div class="alert alert-info" role="alert">
+							<b><a href="https://www.festival-cornouaille.bzh" target="_blank">Fête du Mouton</a></b> à Ligné (44).
+						</div>
 					</dd>
 
-					<dt class="col-sm-2">23 juillet 2023 </dt>
+					<dt class="col-sm-2">19 juillet 2024</dt>
 					<dd class="col-sm-10">
-						<div class="alert alert-info" role="alert"><b>
-							<a href="https://www.festival-cornouaille.bzh" target="_blank">Festival de Cornouailles</a></b> à Quimper (29).
-							<br>Programme à venir.
-							</div>
+						<div class="alert alert-info" role="alert">
+							<b>Répétition générale du Bagad</b>, à Nantes (44), en vue du Championnat <a 
+							href="https://sonerion.bzh/" target="_blank">Sonerion</a> des Bagadoù.
+								Rendez-vous à 19h30 à la Brasserie Little Atlantique Brewery à Nantes (44).
+				  	</div>
 					</dd>
 
-					<dt class="col-sm-2">5 août 2023 </dt>
+					<dt class="col-sm-2">20 juillet 2024</dt>
 					<dd class="col-sm-10">
-						<div class="alert alert-info" role="alert"><b>
-							<a href="https://sonerion.bzh/event/bagadou-2eme-categorie-3/" target="_blank">Championnat national des bagadoù - 2ème catégorie</a></b>
-							à Lorient (56) dans le cadre du Festival Interceltique, organisé par la fédération <a href="https://sonerion.bzh/" target="_blank">Sonerion</a>
+						<div class="alert alert-info" role="alert">
+							<b><a href="https://www.festival-cornouaille.bzh" target="_blank">Festival de Cornouailles</a></b> à Quimper (29).
+							<br>Chapaionnat des Bagadoù - 3ème Catégorie,  
+							<a href="https://sonerion.bzh/2024/01/15/tirage-au-sort-des-ordres-de-passage-bagadou-2024/" 
+							target="_blank">ordre de passages</a>. 
 							</div>
 					</dd>
-
+				
 				</dl>
         <!--
 				<h2 class="mt-0">Agenda complet</h2>
