@@ -1,7 +1,7 @@
 Bagad de Nantes
 ===============
 
-Re-index website on Google: https://www.google.com/ping?sitemap=https://bagaddenantes.bzh/sitemap.xml
+Static website. 
 
 Optimization
 ------------------
