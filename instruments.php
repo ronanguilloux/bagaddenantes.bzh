@@ -51,7 +51,7 @@
 					Plus petit, plus abordable et plus silencieux que le chanter (levriad) d'une cornemuse,
 					il sert au débutant à apprendre le doigté et les ornementations de la cornemuse écossaise,
 					et au musicien confirmé à apprendre et maitriser tout nouveau morceau de musique.
-					Un sonneur de cornemuse passe donc la majorité de son temps à utiliser un practice,
+					Un sonneur de cornemuse passe donc une bonne partie de son temps à utiliser un practice,
 					et lorsqu'un air est su par coeur, il peut être joué à la cornemuse.
 				</p>
 
@@ -87,10 +87,9 @@
 				<h3>Vers l'achat d'une cornemuse</h3>
 				<p>Vers la fin de la première année, votre formateur pourrait vous proposer de vous équiper d'une cornemuse,
 					et vous conseillera pour l'achat d'un instrument : la poche, le type de chanter, les anches bourdons, etc.
-					Le prix d'une cornemuse neuve commence autour de 800 euros.
+					Le budget pour une cornemuse neuve équipée commence autour de 1.000,00 euros.
 				<p>
-					Les élèves en formation et le Bagadig jouent en Sib, c'est la tonalité habituelle des cornemuses écossaises.
-					Depuis 2021, le Bagad de Nantes joue en Do, comme beaucoup de bagadoù en Bretagne.
+					Les élèves en formation, le Bagadig et le Bagad jouent en Sib, c'est la tonalité habituelle des cornemuses écossaises.
 				</p>
 
 
