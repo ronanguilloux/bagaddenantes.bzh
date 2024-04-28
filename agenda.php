@@ -59,7 +59,8 @@
 
 					<dt class="col-sm-2">19 mai 2024</dt>
 					<dd class="col-sm-10">
-						<div class="alert alert-info" role="alert"><b>Fête Biennale de Ville Fontenay le Comte (85)</b>
+						<div class="alert alert-info" role="alert"><b>Fête Biennale</b> de Fontenay le Comte (85). 
+						Sortie commune Bagad et <b><a href="/le-bagadig">Bagadig de Nantes</a></b>
 						</div>
 					</dd>
 <!--
@@ -79,16 +80,41 @@
 
 					<dt class="col-sm-2">21 juin 2024</dt>
 					<dd class="col-sm-10">
-						<div class="alert alert-info" role="alert"><b>Fête de la Musique 2023</b>
-							<br>Le Bagad vous donne rendez-vous à 19h45 face à la Médiathèque de Nantes (44)
+						<div class="alert alert-info" role="alert"><b>Fête de la Musique 2023</b>.
+						Sortie commune Bagad et <b><a href="/le-bagadig">Bagadig de Nantes</a></b>.
+							<br>Bagad et Bagadig vous donne rendez-vous à 19h45 face à la Médiathèque de Nantes (44)
 						</div>
 					</dd>
 
-					<dt class="col-sm-2">28 juin 2024</dt>
+					<dt class="col-sm-2">22 juin 2024, matinée</dt>
 					<dd class="col-sm-10">
 						<div class="alert alert-info" role="alert"><b>Ouverture des
 							<a href="https://jeuxdebretagne.bzh" target="_blank">Jeux de Bretagne 2024</a></b> à Nantes.<br>
 						</div>
+					</dd>
+
+					<dt class="col-sm-2">22 juin 2024, après-midi</dt>
+					<dd class="col-sm-10">
+						<div class="alert alert-info" role="alert"><b><a href="https://www.ccbo-orvault.bzh/page/761962-presentation" 
+						target="_blank">60 ans du CCBO</a></b>, Centre Culturel Breton d'Orvault.<br>
+						</div>
+					</dd>
+
+					<dt class="col-sm-2">29 juin 2024, après-midi</dt>
+					<dd class="col-sm-10">
+						<div class="alert alert-info" role="alert"><b>Ouverture des
+							<a href="https://jeuxdebretagne.bzh" target="_blank">Jeux de Bretagne 2024</a></b> à Nantes.
+							Sortie commune Bagad et <b><a href="/le-bagadig">Bagadig de Nantes</a></b>
+						</div>
+					</dd>
+
+					<dt class="col-sm-2">6 juillet 2024</dt>
+					<dd class="col-sm-10">
+						<div class="alert alert-info" role="alert">
+							<b><a href="/le-bagadig">Bagadig</a></b> : Championnat <a 
+							href="https://sonerion.bzh/" target="_blank">Sonerion</a> des Bagadoù - 5ème catégorie
+								à Pont-l'Abbé (29).
+				  	</div>
 					</dd>
 
 					<dt class="col-sm-2">14 juillet 2024</dt>
@@ -111,7 +137,8 @@
 					<dd class="col-sm-10">
 						<div class="alert alert-info" role="alert">
 							<b><a href="https://www.festival-cornouaille.bzh" target="_blank">Festival de Cornouailles</a></b> à Quimper (29).
-							<br>Chapaionnat des Bagadoù - 3ème Catégorie,  
+							<br>Chapaionnat <a 
+							href="https://sonerion.bzh/" target="_blank">Sonerion</a> des Bagadoù - 3ème Catégorie,  
 							<a href="https://sonerion.bzh/2024/01/15/tirage-au-sort-des-ordres-de-passage-bagadou-2024/" 
 							target="_blank">ordre de passages</a>. 
 							</div>
