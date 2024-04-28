@@ -47,7 +47,7 @@
 		
 		<div class="row justify-content-md-center">
 			<div class="col-md-8 text-center align-middle">
-				<a href="https://market-factory.fr/boutique/boutique/bagad-naoned.html"
+				<a href="https://market-factory.fr/bagad-naoned/"
 					target="_blank"><img src="/assets/images/boutique.webp" 
 					alt="Boutique du Bagad de Nantes" class="img-thumbnail shadow-sm p-2 bg-body rounded"></a>
 			</div>
