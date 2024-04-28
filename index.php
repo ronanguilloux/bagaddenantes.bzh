@@ -38,7 +38,7 @@
 			<div class="col-md-4 text-center align-middle">
 				<p class="lead alert alert-info my-4" role="alert">
 					<i class="fas fa-tshirt"></i>
-					<b><a href="https://market-factory.fr/boutique/boutique/bagad-naoned.html" target="_blank">La boutique officielle :</a></b>
+					<b><a href="https://market-factory.fr/bagad-naoned/" target="_blank">La boutique officielle :</a></b>
 					T-shirt, Polo, vestes softshell et sweat-shirts brodés au logo du Bagad de Nantes, disponible à la commande en ligne.
 				</p>
 			</div>

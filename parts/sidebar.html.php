@@ -59,7 +59,7 @@
     </li>
     <li>
       <i class="fas fa-tshirt"></i>
-      <a href="https://market-factory.fr/boutique/boutique/bagad-naoned.html" target="_blank">Boutique</a>
+      <a href="https://market-factory.fr/bagad-naoned/" target="_blank">Boutique</a>
       <br><span class="small text-muted"></span>
     </li>
     <li>

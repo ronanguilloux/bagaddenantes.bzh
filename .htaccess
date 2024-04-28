@@ -1,6 +1,6 @@
 RewriteEngine On
 
-RedirectPermanent /boutique https://market-factory.fr/boutique/boutique/bagad-naoned.html
+RedirectPermanent /boutique https://market-factory.fr/bagad-naoned/
 
 RewriteCond %{HTTPS} off [OR]
 RewriteCond %{HTTP_HOST} ^www\.bagaddenantes\.bzh [NC]
